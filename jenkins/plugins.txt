@@ -1,0 +1,3 @@
+workflow-aggregator # Jenkins pipeline as code service which allows creating the jenkins file
+seed # a job that looks at all the projects and find jenkins files and import them
+git # a job that looks at all the projects and find git repositories and import them
